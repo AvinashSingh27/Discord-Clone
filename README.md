@@ -20,5 +20,5 @@ It's a website that has been designed to mimic the design of the popular chat an
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [Indra Shekhar](https://www.linkedin.com/in/indra-shekhar/)
-- **Twitter** - [@Indra684](https://twitter.com/Indra684)
+- **LinkedIn** - [Avinash Singh](https://www.linkedin.com/in/avinash-singh-331452193)
+
